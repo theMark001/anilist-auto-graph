@@ -10,4 +10,4 @@
 
 ## Result
 
-[Final result](pie_chart.png)
+![Final result](pie_chart.png)
